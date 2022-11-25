@@ -45,7 +45,7 @@ export const fastifyConfig = {}
 
 export const notificationsConfig = () => {
   return {
-    sendgridApiKey: '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',
+    sendgridApiKey: '...',
     from: 'microservicios@mivecindario.com.ar'
   }
 }
